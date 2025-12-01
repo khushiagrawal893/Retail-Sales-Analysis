@@ -58,10 +58,10 @@ Files:[Excel file](https://github.com/khushiagrawal893/Retail-Sales-Analysis/blo
 ---
 
 ## 📸 Screenshots / Demo
-Sales Performance: ![Dashboard](https://github.com/khushiagrawal893/Retail-Sales-Analysis/blob/main/Screenshots/Sales%20Performance.png)
-Product Insight: ![Dashboard](https://github.com/khushiagrawal893/Retail-Sales-Analysis/blob/main/Screenshots/Product%20Insight.png)
-Engagement Analysis: ![Dashboard](https://github.com/khushiagrawal893/Retail-Sales-Analysis/blob/main/Screenshots/Engagement%20Analysis.png)
-Return Analysis: ![Dashboard]()
+- Sales Performance: ![Dashboard](https://github.com/khushiagrawal893/Retail-Sales-Analysis/blob/main/Screenshots/Sales%20Performance.png)
+- Product Insight: ![Dashboard](https://github.com/khushiagrawal893/Retail-Sales-Analysis/blob/main/Screenshots/Product%20Insight.png)
+- Engagement Analysis: ![Dashboard](https://github.com/khushiagrawal893/Retail-Sales-Analysis/blob/main/Screenshots/Engagement%20Analysis.png)
+- Return Analysis: ![Dashboard](https://github.com/khushiagrawal893/Retail-Sales-Analysis/blob/main/Screenshots/Return%20Analysis.png)
 
 ## 🧠 Final Recommendations
 
