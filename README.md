@@ -58,7 +58,7 @@ Files:[Excel file](https://github.com/khushiagrawal893/Retail-Sales-Analysis/blo
 ---
 
 ## 📸 Screenshots / Demo
-Sales Performance: ![Dashboard]()
+Sales Performance: ![Dashboard](https://github.com/khushiagrawal893/Retail-Sales-Analysis/blob/main/Screenshots/Sales%20Performance.png)
 Product Insight: ![Dashboard]()
 Engagement Analysis: ![Dashboard]()
 Return Analysis: ![Dashboard]()
