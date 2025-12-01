@@ -39,7 +39,7 @@ Designed for Sales, Merchandising, and Supply Chain teams to quickly spot opport
 ---
 
 ## 📂 Data Source
-Include anonymized or sample datasets in `/data`. Suggested files:
+Files:[Excel file](https://github.com/khushiagrawal893/Retail-Sales-Analysis/blob/main/Dataset/Retails_Order_Full_Dataset.csv)
 
 ---
 
@@ -58,7 +58,10 @@ Include anonymized or sample datasets in `/data`. Suggested files:
 ---
 
 ## 📸 Screenshots / Demo
-Place screenshots in `/screenshots` and link them here:
+Sales Performance: ![Dashboard]()
+Product Insight: ![Dashboard]()
+Engagement Analysis: ![Dashboard]()
+Return Analysis: ![Dashboard]()
 
 ## 🧠 Final Recommendations
 
